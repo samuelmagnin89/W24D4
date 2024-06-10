@@ -1,1 +1,4 @@
-https://we.tl/t-B7Nbh7PbIl oppure https://we.tl/t-meE2OiTEVM
+Ho cercato di seguire quanto richiesto. 
+1) ho fatto un grafico a barre con il totale delle vendite per customer_state dei clienti e anno di riferimento
+2) ho fatto un grafico a torta con gli stati degli ordini e i mesi dell'anno
+3) ho fatto un grafico a barre con la media delle review date agli ordini divise per stato e anno. 
